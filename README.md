@@ -14,3 +14,5 @@ Once the stopwatch starts, the **Start** button changes to **Resume**, allowing 
 - Pause and resume feature with the **Resume** button.
 - Reset to 0 functionality.
 - Built using PyQt5 for the graphical user interface.
+
+Author(s) - Oisi Sarkar
